@@ -1,4 +1,13 @@
-### Hi there 👋
+### 
+👋 Hi, I'm NelsonCT7!
+🔹 Full-stack Developer | Passionate about building scalable, efficient, and secure web applications.
+🔹 Tech Stack: JavaScript, Node.js, React, MongoDB, Python, Docker, AWS.
+🔹 Open-source enthusiast: Contributing to a wide range of projects and always looking to collaborate.
+🔹 Core Skills: Back-end development, DevOps, cloud integration, and API development.
+
+📚 Ongoing Learning: Exploring the latest trends in cloud computing, containerization, and modern front-end frameworks.
+
+✨ Let's Connect & Build Something Awesome Together!
 
 <!--
 **nelsonct7/nelsonct7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
